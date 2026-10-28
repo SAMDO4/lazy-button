@@ -7,11 +7,9 @@
 **자주 쓰는 프로그램·사이트·오디오 조작을 버튼 하나로.**<br/>
 Windows용 가상 스트림 덱입니다.
 
-[![최신 버전](https://img.shields.io/github/v/release/SAMDO4/lazy-button?label=%EC%B5%9C%EC%8B%A0%20%EB%B2%84%EC%A0%84&color=4D8DFF)](https://github.com/SAMDO4/lazy-button/releases/latest)
+![최신 버전](https://img.shields.io/github/v/release/SAMDO4/lazy-button?label=%EC%B5%9C%EC%8B%A0%20%EB%B2%84%EC%A0%84&color=4D8DFF)
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-1B1C21?logo=windows)
 ![x64](https://img.shields.io/badge/x64-64bit-1B1C21)
-
-### [⬇ LazyButton-Setup.exe 다운로드](https://github.com/SAMDO4/lazy-button/releases/latest/download/LazyButton-Setup.exe)
 
 </div>
 
@@ -66,7 +64,7 @@ Windows용 가상 스트림 덱입니다.
 
 ## 설치
 
-1. 위의 **LazyButton-Setup.exe** 를 내려받아 실행합니다.
+1. 이 저장소의 Releases 에 등록된 설치 파일(**LazyButton-Setup.exe**)을 실행합니다.
 2. 설치 위치와 옵션(자동 실행 · 시작 메뉴 · 바탕화면 바로가기)을 고르고 설치합니다. 관리자 권한은 필요 없습니다.
 
 <p align="center">
