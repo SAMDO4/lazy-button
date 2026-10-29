@@ -15,9 +15,7 @@ Windows용 가상 스트림 덱입니다.
 
 <br/>
 
-<p align="center">
-  <img src="docs/images/main.png" alt="lazy button 기본 화면" width="820" />
-</p>
+
 
 ## 이런 걸 할 수 있어요
 
